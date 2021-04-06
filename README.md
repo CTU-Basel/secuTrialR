@@ -1,6 +1,6 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-secuTrialR
+secuTrialRRRRRRRRRRRRRRRRRRRRRRR
 ==========
 
 [![](https://img.shields.io/badge/dev%20version-1.0.9-blue.svg)](https://github.com/SwissClinicalTrialOrganisation/secuTrialR)
